@@ -1,0 +1,9 @@
+cn/huiounet/common/send_message/SendMessageUtil.class
+cn/huiounet/common/access_token/GetTokenUtil.class
+cn/huiounet/common/http/HttpUtils$1.class
+cn/huiounet/common/send_message/RamNumberUtil.class
+cn/huiounet/common/RequestReturn.class
+cn/huiounet/common/redis/RedisUtil.class
+cn/huiounet/common/http/HttpRequest.class
+cn/huiounet/common/AppException.class
+cn/huiounet/common/http/HttpUtils.class

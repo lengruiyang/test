@@ -1,0 +1,8 @@
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/AppException.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/http/HttpRequest.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/access_token/GetTokenUtil.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/send_message/RamNumberUtil.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/http/HttpUtils.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/redis/RedisUtil.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/send_message/SendMessageUtil.java
+/Users/lengruiyang/IdeaProjects/TaskMiniApp/TaskMiniApp-common/src/main/java/cn/huiounet/common/RequestReturn.java
